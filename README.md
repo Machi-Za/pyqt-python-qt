@@ -18,10 +18,10 @@ pyinstaller --onefile --noconsole Filename.py
 
 Warning: 
 If an error notification appears during the conversion, such as:
-``Bash
+`
 'pyinstaller' is not recognized as an internal or external command,
 operable program or batch file.
-``
+`
 
 please install PyInstaller first.
 ```Bash
